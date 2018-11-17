@@ -1,0 +1,2 @@
+IrisRecog.CannyEdgeDetector
+IrisRecog.EdgeDetectorException
